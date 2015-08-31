@@ -1,0 +1,14 @@
+{
+  "name": "thisorthat",
+  "version": "1.0.0",
+  "description": "Help a user choose this, or that!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@danielm",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.13.3"
+  }
+}
